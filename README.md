@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y7ousef" alt="y7ousef" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yousef ahmad" target="blank"><img src="https://img.shields.io/twitter/follow/yousef ahmad?logo=twitter&style=for-the-badge" alt="yousef ahmad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Yousef725799"" target="blank"><img src="https://img.shields.io/twitter/follow/yousef ahmad?logo=twitter&style=for-the-badge" alt="@Yousef725799" /></a> </p>
 
 - 🔭 I’m currently working on **job-board**
 
